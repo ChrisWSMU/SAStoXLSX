@@ -23,5 +23,5 @@ proc export
 
 ###Find the file named "testscores.xlsx" and push it up to GITHUB
 
-To download and view the excel file click on the icon representing the best in Texas. [![click Here](images/ClickHere.png)](https://github.com/ChrisWSMU/SAStoXLSX/blob/master/testscores.xlsx)
+To download the excel file click on the icon representing the best in Texas. [![click Here](images/ClickHere.png)](https://github.com/ChrisWSMU/SAStoXLSX/blob/master/testscores.xlsx)
 
