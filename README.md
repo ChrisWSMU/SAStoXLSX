@@ -21,7 +21,7 @@ proc export
   
 
 
-###Find the file named "testscores.xlsx" and push it up to GITHUB
+###Find the file named "testscores.xlsx", add the assigned additional data and push it up to GITHUB
 
 To download the excel file click to the right. [![Click Here](Images/ClickHere.png)](https://github.com/ChrisWSMU/SAStoXLSX/blob/master/testscores.xlsx)
 
